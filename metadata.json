@@ -1,0 +1,6 @@
+{
+  "name": "Extractor",
+  "description": "Suite d'Intelligence Commerciale & DigiWare WhatsApp Business Center (Conversations 3 zones, CRM, Campagnes Multi-Segments, Templates, WooCommerce & Link Center).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
